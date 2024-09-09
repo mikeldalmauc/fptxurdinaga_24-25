@@ -48,10 +48,13 @@ Esta unidad formativa se corresponde con la RP3 de la UC0953_2 MONTAR EQUIPOS MI
 - presentación, calendario, examenes, etc.
 - Visionado de video conexiones, estandar usb y su evolución.
 - Práctica, clasificar perféricos [Documento práctica](https://docs.google.com/document/d/1vSdFc564IZZpcfqFlRx2tI-lQUf7ne2k0MOQSQ7NcMM/edit?usp=sharing)
+- [Práctica red local e instalación de perifericos](https://docs.google.com/document/d/1UdqaoPD2QhAJ6b9dqzNcU1Hv5obmNC45KmlNdFVIQQo/edit?usp=sharing)
 
 ### 10 septiembre - 5 horas
+- [Práctica red local e instalación de perifericos](https://docs.google.com/document/d/1UdqaoPD2QhAJ6b9dqzNcU1Hv5obmNC45KmlNdFVIQQo/edit?usp=sharing) 
 
 ### 11 septiembre - 5 horas
+
 ### 12 septiembre - 5 horas
 ### 16 septiembre - 5 horas
 ### 17 septiembre - 5 horas
