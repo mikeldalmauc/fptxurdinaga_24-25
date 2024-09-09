@@ -1,7 +1,6 @@
 # Multiarranque USB con Ventoy
 
-![alt text](image.png)
-
+![alt text](images/ventoy-image.png)
 
 ## Descargar e instalar Ventoy
 
