@@ -1,6 +1,12 @@
 
 - [IFCT0309  Montaje y reparacion de sistema microinformaticos](#ifct0309--montaje-y-reparacion-de-sistema-microinformaticos)
   - [UF0862 INSTALACIÓN Y CONFIGURACIÓN DE PERIFÉRICOS MICROINFORMÁTICOS](#uf0862-instalación-y-configuración-de-periféricos-microinformáticos)
+    - [9 septiembre - 5 horas](#9-septiembre---5-horas)
+    - [10 septiembre - 5 horas](#10-septiembre---5-horas)
+    - [11 septiembre - 5 horas](#11-septiembre---5-horas)
+    - [12 septiembre - 5 horas](#12-septiembre---5-horas)
+    - [16 septiembre - 5 horas](#16-septiembre---5-horas)
+    - [17 septiembre - 5 horas](#17-septiembre---5-horas)
   - [UF0852 INSTALACIÓN Y ACTUALIZACIÓN DE SISTEMAS OPERATIVOS - 80 horas](#uf0852-instalación-y-actualización-de-sistemas-operativos---80-horas)
     - [18 septiembre - 5 horas](#18-septiembre---5-horas)
     - [23 septiembre - 5 horas](#23-septiembre---5-horas)
@@ -37,6 +43,19 @@
 ## UF0862 INSTALACIÓN Y CONFIGURACIÓN DE PERIFÉRICOS MICROINFORMÁTICOS
 
 Esta unidad formativa se corresponde con la RP3 de la UC0953_2 MONTAR EQUIPOS MICROINFORMÁTICOS.
+
+### 9 septiembre - 5 horas
+- presentación, calendario, examenes, etc.
+- Visionado de video conexiones, estandar usb y su evolución.
+- Práctica, clasificar perféricos [Documento práctica](https://docs.google.com/document/d/1vSdFc564IZZpcfqFlRx2tI-lQUf7ne2k0MOQSQ7NcMM/edit?usp=sharing)
+
+### 10 septiembre - 5 horas
+
+### 11 septiembre - 5 horas
+### 12 septiembre - 5 horas
+### 16 septiembre - 5 horas
+### 17 septiembre - 5 horas
+- Examen y supuesto práctico?
 
 ## UF0852 INSTALACIÓN Y ACTUALIZACIÓN DE SISTEMAS OPERATIVOS - 80 horas
 
